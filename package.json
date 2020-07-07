@@ -1,0 +1,8 @@
+{
+  "name": "recoil-localstorage-selector",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "author": "Simon Madsen",
+  "license": "MIT"
+}
